@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kittenclicker.onrender.com/sitemap.xml
